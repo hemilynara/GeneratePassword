@@ -23,5 +23,5 @@ The generate_password function determines which characters to include in the pas
 ### Installation
 You can clone the repository using the following command:
 ```github
-git clone https://github.com/hemilynara/yourrepo.git
+git clone https://github.com/hemilynara/GeneratePassword.git
 ```
